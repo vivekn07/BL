@@ -1,0 +1,16 @@
+--> Make sure you have installed Nodejs in your system
+
+node -v
+
+
+
+--> We need crypto–js node module to make our own blockchain. So
+install it using the following command.
+
+npm install crypto-js
+
+
+
+--> Run the above code in command prompt using command: 
+
+node main.js

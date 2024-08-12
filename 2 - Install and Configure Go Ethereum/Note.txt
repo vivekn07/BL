@@ -1,0 +1,33 @@
+Step 1: Install MetaMask extension for chrome from Chrome Web Store
+
+Step 2: Click on Metamask Extension in Extensions. Below page will open in a new tab. Click on Create a New Wallet. Click on I agree.
+
+Step 3: Create a password. This password can be used only on the device it was created on. Create a Strong password and click on Create a new Wallet button.
+
+Step 4: Click on Secure my wallet button, following window will appear
+
+Step 5: Click on Reveal Secret Recovery Phrase button and save the words in the same sequence
+
+Step 6: Enter the respective words in the empty positions and click Confirm.
+
+Step 7: Click Got it!
+
+Step 8: Click on Next
+
+Step 9: Following will be the Dashboard
+
+Step 10: Click on Ethereum Mainnet button. Next click on Show/hide test networks.
+
+Step 11: Check if tesnets are shown by clicking on Etherum Mainnet button. Click on Sepolia test network.
+
+Step 12: Go to https://sepoliafaucet.com/ and Click on Alchemy Login button.
+
+Step 13: Login to a gmail account in another browser tab and click on Sign in with Google
+
+Step 14: Now go to MetaMask and copy the account address.
+
+Step 15: Search google for ‘Free Sepolia Faucet’ and go to the following site.
+
+Step 16: Paste the address and click on Receive 0.05 Sepolia ETH. 
+
+Step 17: Check your MetaMask account for Sepolia test network. 0.5 ETH will be added.

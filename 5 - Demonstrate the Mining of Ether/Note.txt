@@ -1,0 +1,19 @@
+--> Download and install Node.js.
+(https://nodejs.org/en/download/prebuilt-installer)
+Step 2: Download and install Ganache (Ethereum Simulator).
+(https://archive.trufflesuite.com/ganache/)
+
+
+--> Note: Replace the URL in Line 3 with your RPC server URL.
+
+
+--> Create a new file with the following code and save it as ‘ethermine.js’. 
+
+
+--> Open Command Prompt. Install Web3 using ‘npm install web3’
+
+
+--> Run the JavaScript File using ‘node ethermine.js’
+
+
+--> Open Ganache and check the output.
